@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">NASA</string>
+    <string name="welcome">Welcome to Know It All</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="tv_knowledge">Always wanted to learn about the universe? We get it - the desire to uncover the mysterious of the great beyond. Learn about exciting missions to the stars in a fun way with this app!</string>
+    <string name="tv_flashcards">Did you know? One of the best ways to learn is via flashcards. Digest information in bite sized pieces and use the power of active recall to get your brain flexing. You will be impressing your friends in no time!</string>
+    <string name="tv_quiz">Ready to test your knowledge? Gain points with high scores and share them on your socials! Find your ranking on the leaderboard</string>
+    <string name="video">Video</string>
+    <string name="youtube">Learn more about the Apollo Mission with NASAs 50 years since Apollo playlist. </string>
+    <string name="playlist">Playlist</string>
+    <string name="loading">Please give us a moment to load</string>
+    <string name="scroll"> Scroll to the left to view more!</string>
+    <string name="friends"> Friends</string>
+    <string name="leaderboardtitle"> Leaderboard</string>
+
+    <string name="flashcards">
+        <br>
+        Flashcards \n
+        </br>
+    </string>
+
+    <string name="quiz">
+        <br>
+            Quiz \n
+        </br>
+    </string>
+
+    <string name="videos">
+        <br>
+            Videos \n
+        </br>
+    </string>
+
+    <string name="home">
+        <br>
+        Home \n
+        </br>
+    </string>
+
+    <string name="leaderboard">
+        <br>
+            Leaderboard \n
+        </br>
+    </string>
+
+    <string name="profile">
+        <br>
+            Profile \n
+        </br>
+    </string>
+
+    <string name="flashcardText">
+        <br>
+        Learn about space \n
+        </br>
+    </string>
+
+    <string name="quizText">
+        <br>
+            Test your knowledge! \n
+        </br>
+    </string>
+
+    <string name="videoText">
+        <br>
+            Get involved with organisations \n
+        </br>
+    </string>
+
+</resources>
